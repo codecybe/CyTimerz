@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <ul class="list-unstyled">
                     <li class="float-lg-right"><a href="#top">Back to top</a></li>
-                    <li>&copy; <a href="http://cybercode" onclick="pageTracker._link(this.href);return false">cybercode</a> 2018</li>
+                    <li>&copy; <a href="#">cybercode</a> 2018</li>
                 </ul>
             </div>
         </div>
